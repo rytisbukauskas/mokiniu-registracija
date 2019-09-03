@@ -27,9 +27,9 @@ else {
 
 $site_url = '//' . $_SERVER['HTTP_HOST'].'/';
 $sql_host = 'localhost';
-$sql_db = 'rasgivho_ev198awf7v8we';
-$sql_usr = 'rasgivho_wavefwe';
-$sql_pw = '9psCDX!$#=EU';
+$sql_db = '';
+$sql_usr = '';
+$sql_pw = '';
 
 $color_accent_1 = '#41868f';
 $color_accent_2 = '#db495e';
